@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(73, 141, 46, 0.219);
+}
+h1,
+h2 {
+  text-align: center;
+  margin-bottom: -10px;
+}
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+h3 {
+  text-align: center;
+}
+#img-div {
+  background-color: white;
+  border-radius: 20px;
+  width: auto;
+}
+
+#image {
+  display: block;
+  margin: 20px auto 20px auto;
+  max-width: 100%;
+}
+
+figure {
+  margin: 10px;
+  padding: 10px 10px 10px;
+  width: auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+li {
+  text-indent: 6em;
+  margin-bottom: 10px;
+}
