@@ -33,7 +33,15 @@ figure {
 #img-caption {
   text-align: center;
 }
+ul {
+  max-width: 600px;
+  margin: 0px auto 20px auto;
+  text-align: left;
+  line-height: 1.2;
+}
 li {
-  text-indent: 6em;
   margin-bottom: 10px;
+}
+.year {
+  font-weight: bold;
 }
